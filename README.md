@@ -1,2 +1,6 @@
 # Insurance-Risk-and-Claims-Analysis
-This project analyzes car insurance data to uncover insights into customer behavior, vehicle risk, and claim patterns. Using Power BI dashboards, it supports risk profiling, customer segmentation, claims analysis, and data-driven premium optimization for insurance decision-making.
+This project explores car insurance data to deliver meaningful insights into customer behavior, vehicle risk, and claim trends. The dataset combines customer demographics, vehicle details, and historical claims information, enabling a holistic analysis of insurance risk and value. By examining factors such as age, income, family structure, vehicle usage, and coverage zones, the project highlights how personal and environmental characteristics influence driving behavior and insurance outcomes.
+
+Interactive Power BI dashboards are used to visualize claim frequency, claim amounts, and customer segments, making complex patterns easy to interpret. The analysis helps identify high-risk and high-value customers, understand loss drivers, and evaluate how different vehicle and household profiles impact insurance claims. Additional indicators such as multiple drivers in a household further enhance risk assessment and segmentation accuracy.
+
+Overall, this project demonstrates how data analytics can support informed decision-making in the insurance industry. The insights generated can assist insurers in optimizing premiums, improving risk management strategies, detecting potential fraud, and designing fairer and more targeted insurance products.
